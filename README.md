@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Guddu1551/Guddu1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Gunjan! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm an electrical engineer⚡. I also like coding , especially Web Dev coding projects.
+
+👩‍💻 I'm currently working on polishing my web dev and python skills
+
+
+
+
+## 🛠 Skills
+**Programming Languages:** Javascript, Typescript, Python, C, HTML, CSS
+
+**Frameworks:** NodeJS, ReactJS, NextJS, TailwindCSS, Bootstrap, Material UI
+
+**Tools:** Git, Github, Figma
+
+**Platforms:** Web, Windows
+
+
+
+
+##  Hobbies
+ - [Coding 💻](https://github.com/Guddu1551)
+ - [Sketching ✏️](https://www.instagram.com/gunjan_gadani/?hl=en)
+ - Gym 💪
+ - Watching Anime 📺
+ 
